@@ -1,1 +1,1 @@
-Fix undefined ‘im_array’ bug in predict.md (#8565)
+Fix device counting method to account for double-digit device IDs (#8502)
