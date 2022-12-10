@@ -1,1 +1,1 @@
-Add Non-Maximum Suppression (NMS) inplace flag (#8368)
+Fixed dataloader CPU bottleneck for small batch sizes (#7659)
