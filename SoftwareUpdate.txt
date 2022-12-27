@@ -1,1 +1,1 @@
-Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
+Add KaTeX support + updates to YOLOv9 model page (#8531)
