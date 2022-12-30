@@ -1,1 +1,1 @@
-fix resume training
+Update CI.md with CI links (#8786)
