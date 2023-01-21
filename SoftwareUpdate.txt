@@ -1,1 +1,1 @@
-Pin jax and jaxlib to fix tensorflowjs exports (#6988)
+Update pyproject.toml [tool.pytest.ini_options] (#9259)
