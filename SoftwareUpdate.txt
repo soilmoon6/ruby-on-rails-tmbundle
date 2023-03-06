@@ -1,1 +1,1 @@
-* fix for predicting with batch_size > 1
+Fix Multi-GPU resume bug (#7328)
