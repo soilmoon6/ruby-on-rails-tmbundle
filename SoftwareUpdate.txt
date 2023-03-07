@@ -1,1 +1,1 @@
-Explorer API video https://youtu.be/3VryynorQeo  (#7838)
+Add Amazon Sagemaker Docs integrations page (#7293)
