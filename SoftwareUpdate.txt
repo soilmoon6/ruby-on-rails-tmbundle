@@ -1,1 +1,1 @@
-New HUB Cloud Training docs page (#8174)
+Add new YOLOv8 OBB model metrics (#7379)
