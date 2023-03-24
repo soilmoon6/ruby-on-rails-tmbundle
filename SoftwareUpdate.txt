@@ -1,1 +1,1 @@
-Add new YOLOv8 OBB model metrics (#7379)
+Adds toggle displaying labels in GUI and verbose log on start (#7804)
