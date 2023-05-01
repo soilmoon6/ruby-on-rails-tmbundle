@@ -1,1 +1,1 @@
-ultralytics 8.1.0 YOLOv8 Oriented Bounding Box (OBB) release (#7463)
+YOLOv8.1 blog, Explorer notebook and 2023 > 2024 updates (#7469)
