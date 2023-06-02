@@ -1,1 +1,1 @@
-fix export tensorrt with dynamic size
+Add docs guide terminal images (#8819)
