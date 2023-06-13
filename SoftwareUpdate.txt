@@ -1,1 +1,1 @@
-ultralytics 8.1.13 fix yolo train time= bug (#8179)
+Update Docs Home and Neural Magic pages (#7243)
