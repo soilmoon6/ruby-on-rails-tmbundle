@@ -1,1 +1,1 @@
-Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
+ultralytics 8.1.15 add Python 3.12 compatibility (#8210)
