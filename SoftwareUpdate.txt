@@ -1,1 +1,1 @@
-Fixed RTDETR GFLOPs bug (#7309)
+Fix an issue with flatbuffer version for Raspberry Pi (#8311)
