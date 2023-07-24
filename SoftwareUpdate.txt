@@ -1,1 +1,1 @@
-Updated SQL Query Plot Code (#8120)
+Add Neural Magic Docs integrations page (#7234)
