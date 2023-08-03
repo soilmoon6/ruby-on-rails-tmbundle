@@ -1,1 +1,1 @@
-Add TFLite Edge TPU Docs Integrations Page  (#8900)
+Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
