@@ -1,1 +1,1 @@
-Update format.yml to pull_request_target (#7460)
+Allow Annotator PIL.Image inputs (#8397)
