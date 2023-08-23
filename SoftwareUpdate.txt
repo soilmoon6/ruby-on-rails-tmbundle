@@ -1,1 +1,1 @@
-Model typehints Docker fix (#8306)
+Resize angle, count, and stage on keypoint number change (#7598)
