@@ -1,1 +1,1 @@
-Update OpenVINO INT8 export (#7515)
+Add polygon regions drawing support in object-counting.md and minor docs update (#8885)
