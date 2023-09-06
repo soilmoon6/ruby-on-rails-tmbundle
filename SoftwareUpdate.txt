@@ -1,1 +1,1 @@
-Expand Model method type hinting (#8279)
+OBB: Fix plot_images (#7592)
