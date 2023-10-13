@@ -1,1 +1,1 @@
-Replacing Images for torchscript.md (#8596)
+ultralytics 8.1.21 Add YOLOv8-World-v2 models (#8580)
