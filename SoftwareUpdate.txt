@@ -1,1 +1,1 @@
-Add YouTube iframe loading=lazy (#8001)
+Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
