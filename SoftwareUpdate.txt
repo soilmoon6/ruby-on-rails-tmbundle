@@ -1,1 +1,1 @@
-fix predict with class filter
+Optimize function calls to method calls (#8507)
