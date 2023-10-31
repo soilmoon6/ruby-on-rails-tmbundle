@@ -1,1 +1,1 @@
-RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
+Add model.eval() in TensorBoad graph visualization to avoid BN stats changes (#8629)
