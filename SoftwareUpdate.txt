@@ -1,1 +1,1 @@
-Add horizontal Mosaic3 augmentation (#6898)
+Ultralytics Actions with OpenAI GPT-4 PR Summary (#7867)
