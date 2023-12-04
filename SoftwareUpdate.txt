@@ -1,1 +1,1 @@
-Fix docs H1 tags (#7182)
+Add line counting and circular heatmaps in Ultralytics Solutions (#7113)
