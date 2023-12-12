@@ -1,1 +1,1 @@
-ultralytics 8.1.10 MLFlow, OBB, TFLite and INT8 fixes (#8016)
+ultralytics 8.1.18 add cmake for building onnxsim on aarch64 (#8395)
