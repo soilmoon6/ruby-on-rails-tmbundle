@@ -1,1 +1,1 @@
-ultralytics 8.1.18 add cmake for building onnxsim on aarch64 (#8395)
+ultralytics 8.0.239 Ultralytics Actions and hub-sdk adoption (#7431)
