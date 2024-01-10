@@ -1,1 +1,1 @@
-Improve Docs arguments tables (#8415)
+Fix an issue with flatbuffer version for Raspberry Pi (#8311)
