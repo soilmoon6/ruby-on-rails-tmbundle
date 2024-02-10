@@ -1,1 +1,1 @@
-ultralytics 8.1.33 fix HUB model checks (#9153)
+Fix docker.yaml double-quote version bug (#7452)
