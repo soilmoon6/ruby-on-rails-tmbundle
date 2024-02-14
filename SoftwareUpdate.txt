@@ -1,1 +1,1 @@
-Move Google Drive to slow tests (#8163)
+Use pathlib in DOTA ops (#7552)
