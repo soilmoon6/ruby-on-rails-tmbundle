@@ -1,1 +1,1 @@
-fix predict with class filter
+Update inference.cpp (bug) (#7279)
