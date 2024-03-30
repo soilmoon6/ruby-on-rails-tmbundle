@@ -1,1 +1,1 @@
-Fix Neural Magic links (#9144)
+ultralytics 8.1.10 MLFlow, OBB, TFLite and INT8 fixes (#8016)
