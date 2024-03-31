@@ -1,1 +1,1 @@
-Fix xyxyxyxyn calculation, swap axis (#8249)
+Update Docs Home and Neural Magic pages (#7243)
