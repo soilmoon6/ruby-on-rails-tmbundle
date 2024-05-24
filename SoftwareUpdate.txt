@@ -1,1 +1,1 @@
-Move Explorer tests to scheduled CI (#8305)
+ultralytics 8.1.18 add cmake for building onnxsim on aarch64 (#8395)
