@@ -1,1 +1,1 @@
-Fix docs H1 tags (#7182)
+Batch inference fixes (#8854)
